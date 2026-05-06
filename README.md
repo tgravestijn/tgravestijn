@@ -1,7 +1,7 @@
 
 - 👋 Hi there, I'm Thijs
 - 🔭 I'm currently working as DevOps Engineer
-- 👀 I'm interested in CICD
+- 👀 I'm interested in Kubernetes, GitOps, CI/CD
 
 <!--
 **tgravestijn/tgravestijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
